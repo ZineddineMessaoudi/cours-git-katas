@@ -9,3 +9,5 @@ function sumOneToN(n) {
 }
 
 console.log(sumOneToN(5))
+
+module.exports = sumOneToN
