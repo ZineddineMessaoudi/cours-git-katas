@@ -3,3 +3,5 @@ function convertCelsiusToFahrenheit(celsius) {
 }
 
 console.log(convertCelsiusToFahrenheit(8))
+
+module.exports = convertCelsiusToFahrenheit
