@@ -1,5 +1,5 @@
 const nombrePremier = require('./katas-11.js');
 
 test('test katas-11', () => {
-    expect(nombrePremier(5)).toBe(True);
+    expect(nombrePremier(5)).toBe(true);
 });
