@@ -11,3 +11,5 @@ function nombrePremier(nombre){
     }
     return true ;
 }
+
+module.export = nombrePremier; 
