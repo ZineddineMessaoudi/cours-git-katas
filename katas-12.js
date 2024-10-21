@@ -20,4 +20,4 @@ function deuxiemePlusGrand(tableau) {
     return second === -1 ? false : second;
 }
 
-module.exports = deuxiemePlusGrand();
+module.exports = deuxiemePlusGrand;
