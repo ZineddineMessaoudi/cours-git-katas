@@ -12,4 +12,4 @@ function nombrePremier(nombre){
     return true ;
 }
 
-module.export = nombrePremier; 
+module.exports = nombrePremier; 
