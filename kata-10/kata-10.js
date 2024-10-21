@@ -6,3 +6,5 @@ function eachWordToUpper(text) {
 }
 
 console.log(eachWordToUpper("hello world"))
+
+module.exports = eachWordToUpper
