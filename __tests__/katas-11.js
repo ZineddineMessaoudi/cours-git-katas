@@ -1,6 +1,6 @@
 function nombrePremier(nombre){
     if (nombre <= 1){
-        return false ;
+        return false;
     }
     else {
         for (let i = 2; i <= Math.sqrt(nombre); i++) {
@@ -9,7 +9,7 @@ function nombrePremier(nombre){
             }
         }
     }
-    return true ;
+    return true;
 }
 
 module.exports = nombrePremier; 
