@@ -1,5 +1,5 @@
-const PaireOuInpaire = require('./kata1');
+const PaireOuInpaire = require('./kata1.js');
 
-test('Dit si le nombre 2 est paire',() => {
+test('Dit si le nombre 2 est paire', () => {
     expect(PaireOuInpaire(2)),toBe(paire);
 });

@@ -7,4 +7,4 @@ function PaireOuInpaire(nombre){
     else return "inpaire"
 }
 
-Module.exports = PaireOuInpaire;
+module.exports = PaireOuInpaire;
